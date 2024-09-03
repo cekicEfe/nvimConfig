@@ -1,5 +1,4 @@
 return {
-    -- add gruvbox
     {
         "folke/tokyonight.nvim",
         opts = {
